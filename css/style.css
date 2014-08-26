@@ -105,6 +105,7 @@ body {
 #p.container-fluid{
     color:#fff;
     background-color:#EBCFC1;
+    padding: 10px 0 10px 0;
     }   
 #p.container-fluid h1, h2{
     color:#c73644;
