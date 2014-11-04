@@ -1,0 +1,11 @@
+User-agent: *
+
+Sitemap: http://dayamahospital.com/sitemap.xml
+Disallow: /wp-includes/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /cgi-bin/
+
+
+User-agent: *
+Allow: /
