@@ -7,5 +7,5 @@ Disallow: /wp-content/
 Disallow: /cgi-bin/
 
 
-User-agent: *
+User-agent: * 
 Allow: /
